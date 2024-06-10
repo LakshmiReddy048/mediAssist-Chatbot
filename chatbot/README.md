@@ -1,3 +1,3 @@
-# Health Care Chatbot
+# MediAssist Health Care Chatbot
 
-This is clg project made by Durgesh Maurya
+This is clg project made by A LakshmiReddy
